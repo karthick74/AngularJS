@@ -1,2 +1,2 @@
 # AngularJS
-AngulJS basic concepts
+AngularJS basic concepts
